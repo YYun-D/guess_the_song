@@ -12,9 +12,11 @@ export default function SongPage() {
       player.loadVideoById('G4BuSPt9iNQ');
     }
   }, []);
-    return (
-      <main>
-        <div ref={playerRef}></div>
-      </main>
-    )
-  }
+
+
+  return (
+    <main>
+      <textarea></textarea>
+    </main>
+  );
+}

@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Black_Han_Sans } from "next/font/google";
-import "../globals.css";
+import "../../globals.css";
 
 const black_Han_Sans = Black_Han_Sans({
   subsets: ['latin'],

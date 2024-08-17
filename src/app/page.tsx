@@ -6,7 +6,7 @@ export default function Home() {
   const router = useRouter();
 
   const handleClick = () => {
-    router.push('/song');
+    router.push('/song/list');
   };
 
   return (

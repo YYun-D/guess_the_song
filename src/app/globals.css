@@ -22,6 +22,14 @@ h1 {
   padding-top: 7%;
 }
 
+h2 {
+  font-size: 100px;
+}
+
+h3 {
+  font-size: 55px;
+}
+
 button {
   cursor: pointer;
   font-size: 100px;
@@ -51,11 +59,50 @@ button:disabled:hover {
   -webkit-text-stroke-color: white;
 }
 
+textarea {
+  width: 500px;
+  height: 80px;
+  font-size: 50px;
+  resize: none;
+  color: black;
+  border: solid 2px;
+  outline: none;
+}
+
 .checkbox-like {
   padding-top: 1%;
   font-size: 100px;
   color: #4f4f4f;
 }
+
 .checked {
   color: black;
+}
+
+.playButton{
+  margin-top: 5%;
+  -webkit-text-stroke-color: transparent;
+  box-shadow: none;
+}
+
+.playButton:hover {
+  background-color: transparent;
+  box-shadow: none;
+  -webkit-text-stroke-color: transparent;
+}
+
+.submitButton {
+  margin-left: 50px;
+  font-size: 65px;
+  position: relative;
+  bottom: 15px;
+}
+
+.answer {
+  margin-top: 10%;
+  text-align: center;
+}
+
+.answerView {
+  display: none;
 }

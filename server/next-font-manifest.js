@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/home/user_yund/Workspace/guess_the_song/src/app/layout":["static/media/d8f8e544930f1a55-s.p.woff2"],"/home/user_yund/Workspace/guess_the_song/src/app/song/list/layout":["static/media/d8f8e544930f1a55-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
